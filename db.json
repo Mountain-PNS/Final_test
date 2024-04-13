@@ -1,0 +1,97 @@
+{
+    "user": [
+        {
+            "id": 1,
+            "email": "admin@example.com",
+            "name": "Admin",
+            "password": "admin123",
+            "role": "admin"
+        },
+        {
+            "id": 2,
+            "email": "user1@example.com",
+            "name": "User 1",
+            "password": "user123",
+            "role": "user"
+        },
+        {
+            "id": 3,
+            "email": "user2@example.com",
+            "name": "User 2",
+            "password": "user456",
+            "role": "user"
+        }
+    ],
+    "product": [
+        {
+            "id": 1,
+            "name": "Product 1",
+            "price": 10.99,
+            "image": "https://picsum.photos/200",
+            "desc": "Description for Product 1"
+        },
+        {
+            "id": 2,
+            "name": "Product 2",
+            "price": 19.99,
+            "image": "https://picsum.photos/200",
+            "desc": "Description for Product 2"
+        },
+        {
+            "id": 3,
+            "name": "Product 3",
+            "price": 15.49,
+            "image": "https://picsum.photos/200",
+            "desc": "Description for Product 3"
+        },
+        {
+            "id": 4,
+            "name": "Product 4",
+            "price": 8.99,
+            "image": "https://picsum.photos/200",
+            "desc": "Description for Product 4"
+        },
+        {
+            "id": 5,
+            "name": "Product 5",
+            "price": 12.99,
+            "image": "https://picsum.photos/200",
+            "desc": "Description for Product 5"
+        },
+        {
+            "id": 6,
+            "name": "Product 6",
+            "price": 9.99,
+            "image": "https://picsum.photos/200",
+            "desc": "Description for Product 6"
+        },
+        {
+            "id": 7,
+            "name": "Product 7",
+            "price": 14.99,
+            "image": "https://picsum.photos/200",
+            "desc": "Description for Product 7"
+        },
+        {
+            "id": 8,
+            "name": "Product 8",
+            "price": 11.49,
+            "image": "https://picsum.photos/200",
+            "desc": "Description for Product 8"
+        },
+        {
+            "id": 9,
+            "name": "Product 9",
+            "price": 17.99,
+            "image": "https://picsum.photos/200",
+            "desc": "Description for Product 9"
+        },
+        {
+            "id": 10,
+            "name": "Product 10",
+            "price": 13.49,
+            "image": "https://picsum.photos/200",
+            "desc": "Description for Product 10"
+        }
+    ]
+}
