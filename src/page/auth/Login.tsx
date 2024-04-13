@@ -1,9 +1,7 @@
-import React from 'react'
-
+import React from "react";
+import Logo from "../../assets/img/disney.webp";
 const Login = () => {
-  return (
-    <div>Login</div>
-  )
-}
+  return <>Login</>;
+};
 
-export default Login
+export default Login;
